@@ -1,0 +1,49 @@
+metric,metric_label,year,n,median,q25,q75,min,max
+pct_dx_lfu,Lost to follow-up before diagnosis (% of infants not passing screen),2015,49,25.745454545454542,12.935323383084576,43.88318863456985,0,93.15068493150685
+pct_dx_lfu,Lost to follow-up before diagnosis (% of infants not passing screen),2016,49,25.268817204301076,12.582781456953644,38.07531380753138,0,89.35108153078203
+pct_dx_lfu,Lost to follow-up before diagnosis (% of infants not passing screen),2017,50,25.21453720228653,12.126052860877142,38.100000209214215,0,86.66666666666667
+pct_dx_lfu,Lost to follow-up before diagnosis (% of infants not passing screen),2018,50,20.986798497569602,12.727075747619487,47.29598748508209,0,89.05852417302799
+pct_dx_lfu,Lost to follow-up before diagnosis (% of infants not passing screen),2019,48,25.074318256183908,17.978516181752532,48.78971733183699,0,91.4364640883978
+pct_dx_lfu,Lost to follow-up before diagnosis (% of infants not passing screen),2020,50,29.40127459749553,11.65555128643489,49.164848356873605,0,86.63967611336032
+pct_dx_lfu,Lost to follow-up before diagnosis (% of infants not passing screen),2021,49,27.38128297695085,16.101694915254235,46.15384615384615,0,84.24336973478938
+pct_dx_lfu,Lost to follow-up before diagnosis (% of infants not passing screen),2022,50,27.643657804265416,16.257160010836113,52.31080026161993,0,83.18840579710145
+pct_ei_by_6mo_of_hl,In early intervention by 6 months (% of infants with hearing loss),2015,48,41.98554990634199,31.31578947368421,53.80302105584376,0,77.77777777777779
+pct_ei_by_6mo_of_hl,In early intervention by 6 months (% of infants with hearing loss),2016,48,43.61037097765936,35.048156586578294,55.301685891748,0,100
+pct_ei_by_6mo_of_hl,In early intervention by 6 months (% of infants with hearing loss),2017,49,42.62295081967213,36.52173913043478,53.191489361702125,0,83.33333333333334
+pct_ei_by_6mo_of_hl,In early intervention by 6 months (% of infants with hearing loss),2018,50,43.844808743169395,36.33118833118833,56.937602627257796,0,100
+pct_ei_by_6mo_of_hl,In early intervention by 6 months (% of infants with hearing loss),2019,47,44.599303135888505,37.638888888888886,50,0,76.47058823529412
+pct_ei_by_6mo_of_hl,In early intervention by 6 months (% of infants with hearing loss),2020,49,46.15384615384615,31.88405797101449,55.223880597014926,0,78.57142857142857
+pct_ei_by_6mo_of_hl,In early intervention by 6 months (% of infants with hearing loss),2021,48,45.76354679802955,34.234955185659416,58.48214285714286,0,66.66666666666666
+pct_ei_by_6mo_of_hl,In early intervention by 6 months (% of infants with hearing loss),2022,46,44.801920768307326,30.102688676641087,54.45217765659755,3.7037037037037033,71.42857142857143
+pct_ei_enrolled,Enrolled in early intervention at any age (% of infants with hearing loss),2015,49,64.40677966101694,57.2463768115942,80.32786885245902,0,92.5925925925926
+pct_ei_enrolled,Enrolled in early intervention at any age (% of infants with hearing loss),2016,49,71.42857142857143,59.59595959595959,78.26086956521739,0,100
+pct_ei_enrolled,Enrolled in early intervention at any age (% of infants with hearing loss),2017,50,68.85904181667128,55.101351351351354,79.9748743718593,0,100
+pct_ei_enrolled,Enrolled in early intervention at any age (% of infants with hearing loss),2018,50,64.97842380195321,57.61612021857923,73.43908045977011,0,100
+pct_ei_enrolled,Enrolled in early intervention at any age (% of infants with hearing loss),2019,48,61.38446090121752,54.59057071960297,69.42690796857465,0,82.35294117647058
+pct_ei_enrolled,Enrolled in early intervention at any age (% of infants with hearing loss),2020,50,64.8346930012881,51.24549819927971,72.27272727272728,12.5,92.85714285714286
+pct_ei_enrolled,Enrolled in early intervention at any age (% of infants with hearing loss),2021,49,65,50.64935064935064,74.07407407407408,0,100
+pct_ei_enrolled,Enrolled in early intervention at any age (% of infants with hearing loss),2022,50,60.88484546360918,47.87735849056604,74.553591160221,7.4074074074074066,100
+pct_ei_lfu,Lost to follow-up before intervention (% of infants with hearing loss),2015,49,13.333333333333334,5.737704918032787,30.434782608695656,0,100
+pct_ei_lfu,Lost to follow-up before intervention (% of infants with hearing loss),2016,49,14.746543778801843,9,25,0,100
+pct_ei_lfu,Lost to follow-up before intervention (% of infants with hearing loss),2017,50,12.562562562562562,6.118357746177697,24.523704031900753,0,100
+pct_ei_lfu,Lost to follow-up before intervention (% of infants with hearing loss),2018,50,16.348490107601528,7.798926928972917,27.68973285106923,0,100
+pct_ei_lfu,Lost to follow-up before intervention (% of infants with hearing loss),2019,48,15.95925297113752,8.648657996679578,30.477335164835164,0,98.30508474576273
+pct_ei_lfu,Lost to follow-up before intervention (% of infants with hearing loss),2020,50,12.846441947565543,7.208994708994709,21.780500521376435,0,75.38461538461539
+pct_ei_lfu,Lost to follow-up before intervention (% of infants with hearing loss),2021,49,13.028169014084506,7.142857142857142,26.041666666666668,0,100
+pct_ei_lfu,Lost to follow-up before intervention (% of infants with hearing loss),2022,50,15.658711997384765,5.2335379800168536,24.140636143203537,0,92.5925925925926
+pct_hl_dx_by_3mo,Diagnosed by 3 months (% of infants with hearing loss),2015,47,58.08383233532935,49.59016393442623,64.95623470068986,23.684210526315788,88.88888888888889
+pct_hl_dx_by_3mo,Diagnosed by 3 months (% of infants with hearing loss),2016,48,57.761278195488714,51.244897959183675,71.08294930875576,5.05050505050505,246.15384615384616
+pct_hl_dx_by_3mo,Diagnosed by 3 months (% of infants with hearing loss),2017,50,60.92796092796093,47.396082178690875,69.42213824594552,20,100
+pct_hl_dx_by_3mo,Diagnosed by 3 months (% of infants with hearing loss),2018,50,66.96119196119196,55.31190121354056,76.02872670807453,31.343283582089555,100
+pct_hl_dx_by_3mo,Diagnosed by 3 months (% of infants with hearing loss),2019,48,65.62636704809708,55.779733009708735,73.28314450407473,35.483870967741936,88.88888888888889
+pct_hl_dx_by_3mo,Diagnosed by 3 months (% of infants with hearing loss),2020,50,63.90569612516808,56.88602442333786,69.71519951264088,25,95.65217391304348
+pct_hl_dx_by_3mo,Diagnosed by 3 months (% of infants with hearing loss),2021,49,65.625,60.60606060606061,70.58823529411765,37.5,100
+pct_hl_dx_by_3mo,Diagnosed by 3 months (% of infants with hearing loss),2022,50,61.45104895104895,52.013888888888886,71.90335080920902,32.95454545454545,100
+pct_screened_by_1mo_of_births,Screened by 1 month (% of births),2015,49,96.11557063634751,94.5771051153836,97.14872095580152,0,98.03638333408568
+pct_screened_by_1mo_of_births,Screened by 1 month (% of births),2016,49,96.02360489524338,94.70610965609032,97.1029954862536,0,98.03063153213252
+pct_screened_by_1mo_of_births,Screened by 1 month (% of births),2017,50,96.20950815805388,95.40263035647955,97.11988331082162,87.91944046515547,99.34631088382068
+pct_screened_by_1mo_of_births,Screened by 1 month (% of births),2018,50,96.18803271569749,95.38188064666177,97.10314147736565,88.15302381855284,99.31351542510038
+pct_screened_by_1mo_of_births,Screened by 1 month (% of births),2019,47,96.33913506793358,95.4662857075798,97.19874342420167,90.47088768692332,99.31453398856851
+pct_screened_by_1mo_of_births,Screened by 1 month (% of births),2020,49,95.9050613338831,94.23311731004038,96.66041635301042,90.42812560951825,99.2248230811105
+pct_screened_by_1mo_of_births,Screened by 1 month (% of births),2021,49,95.4931026915772,94.82426380784366,96.6690363711416,83.37000943099653,99.09270725834192
+pct_screened_by_1mo_of_births,Screened by 1 month (% of births),2022,50,95.32784631222881,94.64319425657283,96.66192456469994,80.1250411319513,97.59704756697649

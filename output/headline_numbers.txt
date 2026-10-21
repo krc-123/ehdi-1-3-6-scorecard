@@ -1,0 +1,7 @@
+State-years in panel: 395 (51 states and DC, 2015 to 2022); territories kept in data/ehdi_panel.csv but excluded here
+Births covered in 2022: 3,594,407; infants diagnosed deaf or hard of hearing: 6,257
+Median state 2022: screened by 1 month 95.3%; diagnosed by 3 months 61.5%; in EI by 6 months 44.8%
+Median state 2015: screened by 1 month 96.1%; diagnosed by 3 months 58.1%; in EI by 6 months 42.0%
+Median diagnostic loss to follow-up 2022: 27.6% (range 0.0 to 83.2)
+States where EI-by-6-months improved 2015 to 2022: 22; went backward: 21
+States with at least 80% of diagnosed infants in EI by 6 months in 2022: 0; below 30%: 12
