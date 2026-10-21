@@ -1,0 +1,39 @@
+variable,definition
+jurisdiction,State or territory name as printed by CDC
+state,Two-letter postal code for the 50 states and DC; blank for territories
+year,Birth cohort year (HSFS survey year)
+births_ehdi,Total occurrent births reported to the EHDI program (table 02)
+births_vital,Births according to vital records (table 02)
+screened,Infants with a documented hearing screen (table 02)
+pct_screened_cdc,"CDC's percent screened, based on EHDI births (table 02)"
+screen_lfu_n,Infants with no documented screen counted as lost to follow-up or documentation (table 02)
+screened_by_1mo,"Infants screened before 1 month of age, pass and not pass (table 04)"
+pct_screened_by_1mo_of_screened_cdc,CDC's percent screened by 1 month among screened infants (table 04)
+not_pass,Infants not passing the final screen (table 06)
+no_hearing_loss,Infants not passing who were diagnosed with no hearing loss / typical hearing (table 06)
+hearing_loss,"Infants diagnosed with permanent hearing loss, called deaf or hard of hearing from 2022 (table 06)"
+prevalence_per_1000_cdc,"CDC's prevalence per 1,000 (per screened to 2020, per births from 2021; table 06)"
+dx_lfu_n,Infants not passing with no documented diagnosis counted as lost to follow-up or documentation (table 06)
+hl_dx_by_3mo,Infants with hearing loss diagnosed before 3 months of age (table 07)
+total_dx,"All infants with a documented diagnosis, hearing loss or not (table 07)"
+total_dx_by_3mo,"All infants diagnosed before 3 months, hearing loss or not (table 07)"
+ei_enrolled,"Infants with hearing loss enrolled in early intervention, Part C or non-Part C (table 09)"
+pct_ei_enrolled_cdc,CDC's percent enrolled in EI among those with hearing loss (table 09)
+ei_part_c,Enrolled in Part C EI (table 09)
+ei_lfu_n,Infants with hearing loss and no EI counted as lost to follow-up or documentation (table 09)
+ei_referrals_part_c,Referrals to Part C (table 10)
+ei_by_6mo,Infants with hearing loss enrolled in EI before 6 months of age (table 10)
+ei_by_6mo_reported,FALSE where the state reported zero infants in EI by 6 months despite enrolling 5 or more; treated as not reported
+hl_dx_by_3mo_reported,FALSE where the state reported zero diagnosed by 3 months despite 5 or more diagnoses; treated as not reported
+small_n,TRUE where fewer than 20 infants were diagnosed; percentages are unstable
+pct_screened,screened / births_ehdi * 100 (computed)
+pct_screened_by_1mo_of_births,screened_by_1mo / births_ehdi * 100 (computed; the '1' in 1-3-6)
+pct_screened_by_1mo_of_screened,screened_by_1mo / screened * 100 (computed)
+pct_not_pass,not_pass / screened * 100 (computed)
+prevalence_per_1000_screened,"hearing_loss / screened * 1000 (computed, consistent across years)"
+pct_hl_dx_by_3mo,hl_dx_by_3mo / hearing_loss * 100 (computed; the '3' in 1-3-6)
+pct_dx_lfu,dx_lfu_n / not_pass * 100 (computed; diagnostic loss to follow-up)
+pct_ei_enrolled,ei_enrolled / hearing_loss * 100 (computed)
+pct_ei_by_6mo_of_hl,"ei_by_6mo / hearing_loss * 100 (computed; the '6' in 1-3-6, among all infants with hearing loss)"
+pct_ei_by_6mo_of_enrolled,ei_by_6mo / ei_enrolled * 100 (computed; among those who enrolled)
+pct_ei_lfu,ei_lfu_n / hearing_loss * 100 (computed; intervention loss to follow-up)
